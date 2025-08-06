@@ -1,31 +1,96 @@
 ---
 layout: page
 title: Gurdeep Singh Saluja
-subtitle: This website is about the medical negligence case for my father Gurdeep Singh Saluja (54 years old) who was a victim of medical negligence in Delhi, India.
+subtitle: This website is dedicated to the memory of Gurdeep Singh Saluja (age 54), a beloved husband and father who lost his life due to medical negligence at Ganga Ram Hospital in New Delhi.
 ---
 
-My father, Gurdeep Singh Saluja, was a great man who had a passion for life and a love for his family. He was known for his:
+## 🕊️ In Loving Memory of Gurdeep Singh Saluja
 
-- Great attitude towards life
-- Extreme loyalty to his family
+![Photo of Gurdeep Singh Saluja — smiling with family](/assets/images/gurdeep-smiling.jpg)  
+*A man of strength, joy, and unwavering love.*
 
-What else do you need?
+My father, Gurdeep Singh Saluja, was more than just a patient—he was a father, a husband, and a vibrant soul full of love, laughter, and loyalty.  
+He was known for:
+- His positive spirit and joyful heart  
+- His devotion to his family  
+- His deep faith and compassion for others
 
-### What Happened?
+We miss him every single day.
 
-On January 8th, 2025 our lifes changed forever. My father was admitted to a hospital in Delhi, India for a routine surgery. However, due to medical negligence, he suffered severe complications that led to his untimely death.
+---
 
-### Why am I doing this?
+## 📅 What Happened
 
-I am creating this website to raise awareness about medical negligence and to seek justice for my father. I want to ensure that no other family has to go through the pain and suffering that we have endured.
+**January 8, 2025** — Our world was shattered. My father was admitted to **Ganga Ram Hospital** in New Delhi for what was supposed to be a routine laparoscopic gallbladder surgery.
 
-### Who is responsible for this?
+Instead:
+- The procedure was **converted to open surgery without consent**
+- His post-surgical pain was **ignored**
+- A second 7+ hour surgery was performed the next day without clear communication
+- He was placed on a ventilator for nearly two months
+- Despite our constant concern, we were falsely reassured—again and again
 
-The hospital and the medical professionals involved in my father's care are responsible for the negligence that led to his death. I am determined to hold them accountable for their actions.
+On **March 10, 2025**, after enduring unimaginable suffering, he passed away.
 
-### Scam at Ganga Ram Hospital
+---
 
-The Ganga Ram Hospital in Delhi, where my father was treated, has a history of medical negligence and malpractice. I have gathered evidence and testimonies from other patients who have suffered due to the hospital's negligence. I will use this information to build a strong case against them and seek justice for my father.
+## ⚠️ Who Is Responsible?
 
-### How can you help?
-If you have any information or evidence related to medical negligence at Ganga Ram Hospital or if you have been a victim of similar negligence, please reach out to me. Your support and solidarity can make a difference in our fight for justice.
+We hold **Dr. Suresh Kumar Singhvi**, the primary doctor, directly responsible for misleading us and mishandling my father's treatment.
+
+![Photo of Dr. Suresh Kumar Singhvi](/assets/images/singhvi.jpg)  
+*Dr. Suresh Singhvi, the GI Surgeon under whose care my father suffered.*
+
+In addition, **Dr. Satendra Katoch**, Director of Medical Services at Ganga Ram, extorted our family—threatening to halt treatment unless massive payments were made privately.
+
+These individuals not only failed in their duties as doctors, but **actively harmed us through deception and abuse of power.**
+
+---
+
+## 🏥 The Scam at Ganga Ram Hospital
+
+Ganga Ram Hospital has a pattern:
+
+- Families of critically ill patients are pressured to shift them to **general wards**, disguised as a cost-saving move.
+- These wards lack adequate care, and many patients **die within 48 hours**—which helps the hospital **manipulate their official death statistics**.
+- False hope is sold, not healthcare.
+
+I have received messages from **multiple families** who’ve faced similar horrors. This is not an isolated case—it is a **systemic issue**.
+
+---
+
+## 📸 What Neglect Looks Like
+
+> ⚠️ *Graphic Content Warning*
+
+![Photo of surgical wound and VAC dressing](/assets/images/wound.jpg)  
+*This is what medical negligence looks like.*
+
+We were told a **VAC dressing** would help—but the person handling it wasn’t a trained medical professional. It was outsourced. We paid out of pocket in cash, just to keep the wound from worsening.
+
+---
+
+## 💔 Why I Built This Website
+
+To honor my father’s memory.  
+To expose the truth.  
+To protect other families.
+
+We could not save him—but we can make sure those responsible are held accountable. I want to ensure **this never happens again**.
+
+---
+
+## 🤝 How You Can Help
+
+- 🧾 **Have you or someone you love suffered at Ganga Ram Hospital?**  
+   Please share your story with us.
+
+- 📣 **Media, legal, and human rights inquiries welcome** — we are building a legal case.
+
+- 📝 **Sign our petition** *(link coming soon)* to demand regulatory oversight and justice for medical negligence victims.
+
+📬 [Email me](mailto:justiceforgurdeep@protonmail.com) or [Use this contact form](/contact)
+
+---
+
+> 💬 *“We were forced to sell our assets to keep our father alive. All we got in return was pain, lies, and loss.”*
