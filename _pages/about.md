@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. One Page Resume (Updated Dec 2025)
+subtitle: <a href='/assets/pdf/singh_resume_sep_10-25.pdf' target='_blank' rel='noopener'>One-Page Resume</a> (Updated Dec 2025)
 
 profile:
   align: right
@@ -31,8 +31,8 @@ Earlier, I was an HPC Administrator at [Purdue University](https://www.rcac.purd
 
 ## Educational Background:
 
-I completed my Master's degree in Computer Science at [Brown University](https://www.brown.edu/), where I worked closely with [Stephen Bach](stephenbach.net). My research focussed on parallel file-systems. During this time, AI research was rapidly expanding, and I became interested in building large-scale training clusters and optimizing infrastructure for machine learning workloads. I worked closely on GPUDirect Storage to reduce training times. 
-
-I also hold a Masters of Business Administration from the University of Rhode Island, which compliments my technical background with experience in leadership, operations, and decision-making.  
-
-Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+| Degree | Institution | Field | Notes |
+| --- | --- | --- | --- |
+| M.S. | [Brown University](https://www.brown.edu/) | Computer Science | Parallel file systems; GPUDirect Storage |
+| MBA | University of Rhode Island | Business Administration | Leadership, operations, decision-making |
+| BS | Southwestern Oklahoma State University | Computer Science | MPI, Parallel-Programming |
