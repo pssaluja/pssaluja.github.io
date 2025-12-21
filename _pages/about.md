@@ -24,5 +24,5 @@ Earlier, I was an HPC Administrator at [Purdue University](https://www.rcac.purd
 | Degree | Institution                                | Field                   | Notes                                    |
 | ------ | ------------------------------------------ | ----------------------- | ---------------------------------------- |
 | M.S.   | [Brown University](https://www.brown.edu/) | Computer Science        | Parallel file systems; GPUDirect Storage |
-| MBA    | University of Rhode Island                 | Business Administration | Leadership, operations, decision-making  |
-| BS     | Southwestern Oklahoma State University     | Computer Science        | MPI, Parallel-Programming                |
+| MBA    | [University of Rhode Island](https://web.uri.edu/business/)          | Business Administration | Leadership, operations, decision-making  |
+| BS     | [Southwestern Oklahoma State University](https://www.swosu.edu/)     | Computer Science        | MPI, Parallel-Programming                |
