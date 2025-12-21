@@ -1,6 +1,6 @@
 ---
 layout: page
-title: GDS 
+title: GDS
 description: Implementing the GPUDirect Storage (GDS) with GPFS and pNFS
 img: assets/img/12.jpg
 importance: 1
@@ -9,11 +9,11 @@ related_publications: true
 ---
 
 I extensively worked on GPUDirectStorage. With the demand for AI
-and ever increaing demand for GPUs. I noticed a patters most 
-of the time the GPUs on cluster would be sitting idle. During 
-a supercomputing conference I came across the GDS project. 
+and ever increaing demand for GPUs. I noticed a patters most
+of the time the GPUs on cluster would be sitting idle. During
+a supercomputing conference I came across the GDS project.
 
-This page is about how I implemented this and how it improved 
+This page is about how I implemented this and how it improved
 training times.
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
