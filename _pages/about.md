@@ -27,6 +27,19 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+I am a Lead High-Performance Computing Engineer at [Brown University](https://www.brown.edu/) working at the [Center for Computation & Visualization](https://ccv.brown.edu/). I manage the university's main HPC cluster, OSCAR, supporing researchers across campus. My work includes compute, storage, networking, and building software environments using Spack and containers. I enjoy working with the new emerging hardware and software. 
+
+Previously, I worked at the [Broad Institute of MIT and Harvard](https://www.broadinstitute.org/), where I supported large-scale genomic computing. I helped build a dedicated HPC cluster for [Illumina DRAGEN (Dynamic Read Analysis for GENomics)](https://www.illumina.com/products/by-type/informatics-products/dragen-secondary-analysis.html) systems and worked with SLURM and Kubernetes in hybrid on-prem and cloud environments. 
+
+Earlier, I was an HPC Administrator at [Purdue University](https://www.rcac.purdue.edu/). I have over seven years fo full-time experience working with high-performance computing systems. 
+
+Education:
+
+I completed my Master's degree in Computer Science at Brown University, where I worked closely with [Stephen Bach](stephenbach.net). My research focussed on parallel file-systems. During this time, AI research was rapidly expanding, and I became interested in building large-scale training clusters and optimizing infrastructure for machine learning workloads. I worked closely on GPUDirect Storage to reduce training times. 
+
+I also hold a Masters of Business Administration from the University of Rhode Island, which compliments my technical background with experience in leadership, operations, and decision-making.  
+
+
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
