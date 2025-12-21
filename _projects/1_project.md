@@ -1,16 +1,20 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: GDS 
+description: Implementing the GPUDirect Storage (GDS) with GPFS and pNFS
 img: assets/img/12.jpg
 importance: 1
 category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+I extensively worked on GPUDirectStorage. With the demand for AI
+and ever increaing demand for GPUs. I noticed a patters most 
+of the time the GPUs on cluster would be sitting idle. During 
+a supercomputing conference I came across the GDS project. 
+
+This page is about how I implemented this and how it improved 
+training times.
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
