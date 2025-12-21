@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://pssaluja.github.io/al-folio/sitemap.xml
+Sitemap: https://pssaluja.github.io/sitemap.xml
