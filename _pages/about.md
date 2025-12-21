@@ -16,23 +16,18 @@ announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Lead High-Performance Computing Engineer at [Brown University](https://www.brown.edu/) working at the [Center for Computation & Visualization](https://ccv.brown.edu/). I manage the university's main HPC cluster, OSCAR, supporing researchers across campus. My work includes compute, storage, networking, and building software environments using Spack and containers. I enjoy working with the new emerging hardware and software. 
+I am a Lead High-Performance Computing Engineer at [Brown University](https://www.brown.edu/) working at the [Center for Computation & Visualization](https://ccv.brown.edu/). I manage the university's main HPC cluster, OSCAR, supporing researchers across campus. My work includes compute, storage, networking, and building software environments using Spack and containers. I enjoy working with the new emerging hardware and software.
 
-Previously, I worked at the [Broad Institute of MIT and Harvard](https://www.broadinstitute.org/), where I supported large-scale genomic computing. I helped build a dedicated HPC cluster for [Illumina DRAGEN (Dynamic Read Analysis for GENomics)](https://www.illumina.com/products/by-type/informatics-products/dragen-secondary-analysis.html) systems and worked with SLURM and Kubernetes in hybrid on-prem and cloud environments. 
+Previously, I worked at the [Broad Institute of MIT and Harvard](https://www.broadinstitute.org/), where I supported large-scale genomic computing. I helped build a dedicated HPC cluster for [Illumina DRAGEN (Dynamic Read Analysis for GENomics)](https://www.illumina.com/products/by-type/informatics-products/dragen-secondary-analysis.html) systems and worked with SLURM and Kubernetes in hybrid on-prem and cloud environments.
 
-Earlier, I was an HPC Administrator at [Purdue University](https://www.rcac.purdue.edu/). I have over seven years fo full-time experience working with high-performance computing systems. 
+Earlier, I was an HPC Administrator at [Purdue University](https://www.rcac.purdue.edu/). I have over seven years fo full-time experience working with high-performance computing systems.
 
 ## Educational Background:
 
-| Degree | Institution | Field | Notes |
-| --- | --- | --- | --- |
-| M.S. | [Brown University](https://www.brown.edu/) | Computer Science | Parallel file systems; GPUDirect Storage |
-| MBA | University of Rhode Island | Business Administration | Leadership, operations, decision-making |
-| BS | Southwestern Oklahoma State University | Computer Science | MPI, Parallel-Programming |
+| Degree | Institution                                | Field                   | Notes                                    |
+| ------ | ------------------------------------------ | ----------------------- | ---------------------------------------- |
+| M.S.   | [Brown University](https://www.brown.edu/) | Computer Science        | Parallel file systems; GPUDirect Storage |
+| MBA    | University of Rhode Island                 | Business Administration | Leadership, operations, decision-making  |
+| BS     | Southwestern Oklahoma State University     | Computer Science        | MPI, Parallel-Programming                |
