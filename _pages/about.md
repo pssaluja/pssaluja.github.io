@@ -11,11 +11,6 @@ profile:
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
 I am a Lead High-Performance Computing Engineer at [Brown University](https://www.brown.edu/) working at the [Center for Computation & Visualization](https://ccv.brown.edu/). I manage the university's main HPC cluster, OSCAR, supporing researchers across campus. My work includes compute, storage, networking, and building software environments using Spack and containers. I enjoy working with the new emerging hardware and software.
