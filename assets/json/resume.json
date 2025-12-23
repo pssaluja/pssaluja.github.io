@@ -39,7 +39,7 @@
       "startDate": "YYYY-MM-DD",
       "endDate": "YYYY-MM-DD",
       "summary": "Job description goes here",
-      "highlights": ["Schedulers", "Storage Systems", "HPC Networking", "HPC Security", "Multi-Cloud Systems" ]
+      "highlights": ["Schedulers", "Storage Systems", "HPC Networking", "HPC Security", "Multi-Cloud Systems"]
     }
   ],
   "education": [
@@ -123,14 +123,7 @@
       "name": "High-Performance Computing",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Schedulers",
-        "Parallel File Systems",
-        "Networking",
-        "Security",
-        "Cloud Systems",
-        "Compute"
-      ]
+      "keywords": ["Schedulers", "Parallel File Systems", "Networking", "Security", "Cloud Systems", "Compute"]
     }
   ],
   "interests": [
